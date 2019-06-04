@@ -8,7 +8,7 @@ using System.Net.Http;
 using System.Threading.Tasks;
 using System.Web.Http;
 
-namespace QualLivroLer.Controllers
+namespace QualLivroLer.Controllers.API
 {
     public class LivrosController : ApiController
     {
@@ -36,12 +36,12 @@ namespace QualLivroLer.Controllers
 
         public void Put(string _id, Livros livro)
          {
-            _data.AtualizaLivro(_id, livro);
+            _ = _data.AtualizaLivro(_id, livro);
          }
 
         public void Delete(ObjectId id)
          {
-            _data.Remove(id);
+            _ = _data.Remove(id);
          }
 
     }

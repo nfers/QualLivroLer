@@ -95,7 +95,6 @@ C:\Projetos\Projetos_dotNet\QualLivroLer\QualLivroLer\bin\pt-br\System.Web.Razor
 C:\Projetos\Projetos_dotNet\QualLivroLer\QualLivroLer\bin\pt-br\System.Web.WebPages.resources.dll
 C:\Projetos\Projetos_dotNet\QualLivroLer\QualLivroLer\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
 C:\Projetos\Projetos_dotNet\QualLivroLer\QualLivroLer\bin\pt-br\System.Web.WebPages.Razor.resources.dll
-C:\Projetos\Projetos_dotNet\QualLivroLer\QualLivroLer\obj\Debug\QualLivroLer.csprojAssemblyReference.cache
 C:\Projetos\Projetos_dotNet\QualLivroLer\QualLivroLer\obj\Debug\QualLivroLer.csproj.CoreCompileInputs.cache
 C:\Projetos\Projetos_dotNet\QualLivroLer\QualLivroLer\obj\Debug\QualLivroLer.csproj.CopyComplete
 C:\Projetos\Projetos_dotNet\QualLivroLer\QualLivroLer\obj\Debug\QualLivroLer.dll
