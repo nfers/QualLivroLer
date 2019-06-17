@@ -22,7 +22,8 @@ namespace QualLivroLer.Models
         
         //[BsonElement("DataCriacao")]
         public DateTime dtCriacao { get; set; }
-        
+
+        [BsonIgnoreIfNull]
         public Int32 __v { get; set; }
     }
 }

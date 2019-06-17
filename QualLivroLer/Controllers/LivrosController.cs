@@ -7,9 +7,11 @@ using System.Net;
 using System.Net.Http;
 using System.Threading.Tasks;
 using System.Web.Http;
+using System.Web.Http.Cors;
 
 namespace QualLivroLer.Controllers.API
 {
+    [EnableCors(origins: "http://localhost:65208/api/livros", headers: "*", methods: "*")]
     public class LivrosController : ApiController
     {
         private Data _data;
